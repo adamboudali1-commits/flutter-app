@@ -1,9 +1,11 @@
 Ecom App 🛍️
+
 Ecom App est une application mobile et web complète d'e-commerce développée avec Flutter. Elle offre une expérience utilisateur fluide pour les clients (navigation, panier, commandes) ainsi qu'une interface d'administration pour la gestion des produits et le suivi des ventes.
 
 L'architecture est conçue pour être modulaire, évolutive et facile à maintenir.
 
 ✨ Fonctionnalités Principales
+
 Pour les Clients
 Authentification & Profil : Connexion, inscription, gestion du profil utilisateur et adresses de livraison.
 
