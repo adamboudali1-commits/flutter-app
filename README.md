@@ -59,7 +59,7 @@ Cloner le dépôt :
 
 Bash
 
-git clone https://github.com/votre-username/ecom-app.git
+git clone https://github.com/adamboudali1-commits/flutter-app.git
 cd ecom-app
 Installer les dépendances :
 
